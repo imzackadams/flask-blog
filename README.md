@@ -1,2 +1,2 @@
 # flaskblog
-blog made with flask
+full feature blog app using flask
